@@ -24,7 +24,7 @@ Contributions are very welcome!
 * [Photo Pin](http://photopin.com/) - Milions of photos for bloggers and creatives.
 * [Photos8](http://photos8.com/) - High quality stock photos.
 * [The Noun Project](http://thenounproject.com/) - High quality icons and images. Requires login.
-* [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that teachers and students can use in their academic projects.
+* [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
 
 ## Misc
