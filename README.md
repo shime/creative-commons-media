@@ -34,7 +34,7 @@ Contributions are very welcome!
 * [Flickr's Creative Commons Search](https://www.flickr.com/creativecommons/)
 * [Soundcloud's Creative Commons Search](https://soundcloud.com/search/sounds?filter.license=to_share)
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
-* [Wikimedia Commons](https://www.flickr.com/creativecommons/)
+* [Wikimedia Commons](http://commons.wikimedia.org/)
 
 ## Other awesome lists
 
