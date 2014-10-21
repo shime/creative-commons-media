@@ -14,6 +14,7 @@ Contributions are very welcome!
 
 ## Graphics
 
+* [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos.
 * [AnimalPhotos](http://animalphotos.info/a/) - Thousands of animal pictures.
 * [CarPictures.cc](http://carpictures.cc/cars/photo/) - Thousands of car pictures.
 * [Compfight](http://www.compfight.com/) - Searches Flickr for images suitable for blogs, comps, inspiration and research.
