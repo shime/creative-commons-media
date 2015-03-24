@@ -11,6 +11,7 @@ Contributions are very welcome!
 * [freesound](http://www.freesound.org/) - Collaborative database of sounds, mostly sound effects.
 * [Jamendo](http://jamendo.com) - Musical albums. Requires login.
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
+* [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
 
 ## Graphics
 
