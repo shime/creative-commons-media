@@ -1,6 +1,6 @@
 # Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources that provide media licensed under Creative Commons licenses.
+A curated list of resources that provide media licensed under [Creative Commons licenses](https://creativecommons.org/licenses/).
 
 Contributions are very welcome!
 
@@ -27,10 +27,14 @@ Contributions are very welcome!
 * [OpenClipArt](https://openclipart.org/) - Library of 60,000 clipart pieces.
 * [Photo Pin](http://photopin.com/) - Milions of photos for bloggers and creatives.
 * [Photos8](http://photos8.com/) - High quality stock photos.
+* [Pixabay](https://pixabay.com/) - Photos, cliparts and artwork on CC0 licence. Requires login.
 * [The Noun Project](http://thenounproject.com/) - High quality icons and images. Requires login.
 * [Unsplash](https://unsplash.com/) - Library of high-resolution images.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
+* Open Font Library 
+  +   [CC-BY](https://fontlibrary.org/en/search?license=CC-BY) 
+  +   [CC-BY-SA](https://fontlibrary.org/en/search?license=CC-BY-SA) - Open Fonts iavailable under several open source licences
 
 ## Video
 
@@ -40,11 +44,25 @@ Contributions are very welcome!
 
 ## Open Journals
 
-* [PLOS](https://www.plos.org/) - Open Access Research
+* [PLOS](https://www.plos.org/) - Open access research articles
+* [DOAJ](https://doaj.org/) - Directory of Open Access Journals
 
 ## Open courseware
 
 * [MIT OpenCourseWare](http://ocw.mit.edu)
+* [Boundless](https://www.boundless.com/) - Open textbooks all under CC BY-SA 4.0 license
+* [Skills Commons](https://www.skillscommons.org/) - Open Career training resources
+* [Candela Learning](https://courses.candelalearning.com/catalog/lumen)
+* [OpenStax College](https://www.openstaxcollege.org/)
+* [OpenIntro](https://www.openintro.org/)
+* [Open Textbook Network](http://open.umn.edu/opentextbooks/)
+* [Siyavula Open Textbooks](http://www.siyavula.com/work-oer.html#BOOKS)
+* [P2PU](https://www.p2pu.org/en/) - Peer to peer university - all under CC BY-SA 4.0 license
+
+## 3d Printing
+
+* [Thingiverse](https://www.thingiverse.com/) - from MakerBot
+* 
 
 ## Misc
 
@@ -52,9 +70,11 @@ Contributions are very welcome!
 * [Creative Commons' Search](http://search.creativecommons.org/)
 * [Europeana](http://www.europeana.eu/portal/) - Explore 48,427,731 artworks, artefacts, books, videos and sounds from across Europe. 
 * [Flickr's Creative Commons Search](https://www.flickr.com/creativecommons/)
+* [Jurispedia](http://jurispedia.org) - The shared law
 * [Soundcloud's Creative Commons Search](https://soundcloud.com/search/sounds?filter.license=to_share)
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
+* [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
 * [Internet Archive](https://archive.org) 
 
 ## Other awesome lists
