@@ -5,10 +5,12 @@ A curated list of resources that provide media licensed under Creative Commons l
 Contributions are very welcome!
 
 ## Audio
-
+* [Audio Archive](https://archive.org/details/audio) - Internet Archive's Audio Archive
+* [Bandcamp](https://bandcamp.com/tag/creative-commons) - Creative Commons tag on Bandcamp
 * [ccmixter](http://ccmixter.org/) - Loops and samples that are co-created into tracks.
 * [free-loops](http://free-loops.com/) - Loops and audio clips.
 * [freesound](http://www.freesound.org/) - Collaborative database of sounds, mostly sound effects.
+* [Free Music Archive](https://www.freemusicarchive.org/) - The Free Music Archive offers free downloads under Creative Commons and other licenses.
 * [Jamendo](http://jamendo.com) - Musical albums. Requires login.
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
 * [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
@@ -30,14 +32,30 @@ Contributions are very welcome!
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
 
+## Video
+
+## Open Data
+
+* [Geonames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million placenames that are available for download free of charge.
+
+## Open Journals
+
+* [PLOS](https://www.plos.org/) - Open Access Research
+
+## Open courseware
+
+* [MIT OpenCourseWare](http://ocw.mit.edu)
+
 ## Misc
 
 * [500px's Creative Commons Search](http://500px.com/creativecommons)
 * [Creative Commons' Search](http://search.creativecommons.org/)
+* [Europeana](http://www.europeana.eu/portal/) - Explore 48,427,731 artworks, artefacts, books, videos and sounds from across Europe. 
 * [Flickr's Creative Commons Search](https://www.flickr.com/creativecommons/)
 * [Soundcloud's Creative Commons Search](https://soundcloud.com/search/sounds?filter.license=to_share)
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
+* [Internet Archive](https://archive.org) 
 
 ## Other awesome lists
 
