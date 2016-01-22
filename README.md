@@ -22,6 +22,7 @@ Contributions are very welcome!
 * [CarPictures.cc](http://carpictures.cc/cars/photo/) - Thousands of car pictures.
 * [Compfight](http://www.compfight.com/) - Searches Flickr for images suitable for blogs, comps, inspiration and research.
 * [Creativity103](http://creativity103.com/) - Library of free abstract backgrounds, textures and design ideas.
+* [Find A Photo](http://finda.photo/) - Search through thousands of free (CC0 licensed) stock photos.
 * [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 * [ImageBase](http://imagebase.net/) - Collection of free photos.
 * [Morgue File](http://www.morguefile.com/archive/) - Photo collection with license to remix.
