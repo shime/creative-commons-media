@@ -37,7 +37,7 @@ Contributions are very welcome!
 * [Unsplash](https://unsplash.com/) - Library of high-resolution images.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
-
+* [Good Free Photos](https://www.goodfreephotos.com) - Thousands of free public domain photos categorized by geographic location
 
 ## Video
 
