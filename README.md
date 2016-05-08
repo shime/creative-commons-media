@@ -11,9 +11,9 @@ Contributions are very welcome!
 * [free-loops](http://free-loops.com/) - Loops and audio clips.
 * [freesound](http://www.freesound.org/) - Collaborative database of sounds, mostly sound effects.
 * [Free Music Archive](https://www.freemusicarchive.org/) - The Free Music Archive offers free downloads under Creative Commons and other licenses.
+* [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
 * [Jamendo](http://jamendo.com) - Musical albums. Requires login.
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
-* [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
 
 ## Graphics
 
@@ -24,6 +24,7 @@ Contributions are very welcome!
 * [Creativity103](http://creativity103.com/) - Library of free abstract backgrounds, textures and design ideas.
 * [Find A Photo](http://finda.photo/) - Search through thousands of free (CC0 licensed) stock photos.
 * [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
+* [Good Free Photos](https://www.goodfreephotos.com) - Thousands of free public domain photos categorized by geographic location
 * [ImageBase](http://imagebase.net/) - Collection of free photos.
 * [Morgue File](http://www.morguefile.com/archive/) - Photo collection with license to remix.
 * [OpenClipArt](https://openclipart.org/) - Library of 60,000 clipart pieces.
@@ -37,7 +38,6 @@ Contributions are very welcome!
 * [Unsplash](https://unsplash.com/) - Library of high-resolution images.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
-* [Good Free Photos](https://www.goodfreephotos.com) - Thousands of free public domain photos categorized by geographic location
 
 ## Video
 
