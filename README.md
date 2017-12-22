@@ -80,6 +80,10 @@ Contributions are very welcome!
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 * [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
 
+## Media
+
+* [XKCD](https://xkcd.com/)
+
 ## Other awesome lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
