@@ -53,7 +53,6 @@ Contributions are very welcome!
 
 ## Open courseware
 
-* [Boundless](https://www.boundless.com/) - Open textbooks all under CC BY-SA 4.0 license
 * [Candela Learning](https://courses.candelalearning.com/catalog/lumen)
 * [MIT OpenCourseWare](http://ocw.mit.edu)
 * [OpenIntro](https://www.openintro.org/)
