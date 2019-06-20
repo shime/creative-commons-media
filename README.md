@@ -76,6 +76,7 @@ Contributions are very welcome!
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 * [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
+* [XKCD](https://xkcd.com/)
 
 ## Other awesome lists
 
