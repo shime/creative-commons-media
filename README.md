@@ -19,8 +19,6 @@ Contributions are very welcome!
 
 * [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos.
 * [Altphotos](https://altphotos.com) - Handpicked free (CC0) high-resolution photos added daily.
-* [AnimalPhotos](http://animalphotos.info/a/) - Thousands of animal pictures.
-* [CarPictures.cc](http://carpictures.cc/cars/photo/) - Thousands of car pictures.
 * [Compfight](http://www.compfight.com/) - Searches Flickr for images suitable for blogs, comps, inspiration and research.
 * [Creativity103](http://creativity103.com/) - Library of free abstract backgrounds, textures and design ideas.
 * [Find A Photo](http://finda.photo/) - Search through thousands of free (CC0 licensed) stock photos.
@@ -28,7 +26,6 @@ Contributions are very welcome!
 * [Good Free Photos](https://www.goodfreephotos.com) - Thousands of free public domain photos categorized by geographic location
 * [ImageBase](http://imagebase.net/) - Collection of free photos.
 * [Morgue File](http://www.morguefile.com/archive/) - Photo collection with license to remix.
-* [OpenClipArt](https://openclipart.org/) - Library of 60,000 clipart pieces.
 * Open Font Library 
   + [CC-BY](https://fontlibrary.org/en/search?license=CC-BY) 
   + [CC-BY-SA](https://fontlibrary.org/en/search?license=CC-BY-SA) - Open Fonts available under several open source licences
@@ -42,6 +39,8 @@ Contributions are very welcome!
 
 ## Video
 
+* [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
+
 ## Open Data
 
 * [Geonames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million placenames that are available for download free of charge.
@@ -53,12 +52,10 @@ Contributions are very welcome!
 
 ## Open courseware
 
-* [Boundless](https://www.boundless.com/) - Open textbooks all under CC BY-SA 4.0 license
 * [Candela Learning](https://courses.candelalearning.com/catalog/lumen)
 * [MIT OpenCourseWare](http://ocw.mit.edu)
 * [OpenIntro](https://www.openintro.org/)
 * [OpenStax College](https://www.openstaxcollege.org/)
-* [Open Textbook Network](http://open.umn.edu/opentextbooks/)
 * [P2PU](https://www.p2pu.org/en/) - Peer to peer university - all under CC BY-SA 4.0 license
 * [Siyavula Open Textbooks](http://www.siyavula.com/work-oer.html#BOOKS)
 * [Skills Commons](https://www.skillscommons.org/) - Open Career training resources
@@ -83,6 +80,7 @@ Contributions are very welcome!
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 * [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
+* [XKCD](https://xkcd.com/)
 
 ## Other awesome lists
 
