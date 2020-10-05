@@ -3,4 +3,4 @@ rvm: 2.2
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot --allow-redirect README.md -w vimeo.com
+  - awesome_bot --allow-redirect README.md -w vimeo.com,pixabay.com,courses.candelalearning.com
