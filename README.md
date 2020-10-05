@@ -60,6 +60,10 @@ Contributions are very welcome!
 * [Siyavula Open Textbooks](http://www.siyavula.com/work-oer.html#BOOKS)
 * [Skills Commons](https://www.skillscommons.org/) - Open Career training resources
 
+## Open popularization
+
+* [Qu'est-ce que tu GEEKes ?](https://www.qtg.fr/) - in French - all under CC BY-SA 4.0 license
+
 ## 3d Printing
 
 * [Thingiverse](https://www.thingiverse.com/) - from MakerBot
