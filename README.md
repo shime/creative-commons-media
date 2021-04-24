@@ -14,6 +14,7 @@ Contributions are very welcome!
 * [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
 * [Jamendo](http://jamendo.com) - Musical albums. Requires login.
 * [Tribe of Noise](http://www.tribeofnoise.com/) - Musical albums. Requires login.
+* [Warfork](https://github.com/TeamForbiddenLLC/warfork-free-soundpacks) - Free sounds for an Arena FPS shooter.
 
 ## Graphics
 
