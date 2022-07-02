@@ -29,6 +29,7 @@ Contributions are very welcome!
 * Open Font Library 
   + [CC-BY](https://fontlibrary.org/en/search?license=CC-BY) 
   + [CC-BY-SA](https://fontlibrary.org/en/search?license=CC-BY-SA) - Open Fonts available under several open source licences
+* [Pexels](https://www.pexels.com/) - Milions of free stock photos.
 * [Photo Pin](http://photopin.com/) - Milions of photos for bloggers and creatives.
 * [Photos8](http://photos8.com/) - High quality stock photos.
 * [Pixabay](https://pixabay.com/) - Photos, cliparts and artwork on CC0 licence. Requires login.
